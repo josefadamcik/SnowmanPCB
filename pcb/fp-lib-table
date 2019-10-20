@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "snowman_pcb")(type KiCad)(uri "$(KIPRJMOD)/snowman_pcb.pretty")(options "")(descr ""))
+)
