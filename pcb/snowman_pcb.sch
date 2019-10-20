@@ -1,6 +1,7 @@
 EESchema Schematic File Version 4
 LIBS:power
 LIBS:74xx
+LIBS:snowman_pcb-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -111,7 +112,7 @@ U 1 1 5DAC9855
 P 4800 1850
 F 0 "D5" V 4839 1733 50  0000 R CNN
 F 1 "LED" V 4748 1733 50  0000 R CNN
-F 2 "snowman_pcb:LED_1206_3216Metric_ReverseMount_NoHole1.8x2.4mm" H 4800 1850 50  0001 C CNN
+F 2 "snowman_pcb:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm" H 4800 1850 50  0001 C CNN
 F 3 "~" H 4800 1850 50  0001 C CNN
 	1    4800 1850
 	0    -1   -1   0   
