@@ -85,9 +85,6 @@ $EndComp
 Wire Wire Line
 	2600 1650 2600 1600
 Wire Wire Line
-	3000 1700 3300 1700
-Connection ~ 3300 1700
-Wire Wire Line
 	3300 1700 3750 1700
 Connection ~ 3750 1700
 Wire Wire Line
@@ -151,4 +148,8 @@ Wire Wire Line
 	4500 1700 4800 1700
 Wire Wire Line
 	4500 2000 4800 2000
+Wire Wire Line
+	3300 1700 3000 1700
+Connection ~ 3300 1700
+NoConn ~ 3000 1500
 $EndSCHEMATC
