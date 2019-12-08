@@ -1,4 +1,4 @@
-16334977854232780
+16334993482732780
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -72954,13 +72954,6 @@ B.Mask_g828
 0
 0
 snowman_pcb
-BatteryHolder_THT_CR2032
-http://www.keyelco.com/product-pdf.cfm?p=787
-Keystone type 3009 coin cell retainer
-0
-3
-2
-snowman_pcb
 F.Cu_g832
 
 
@@ -72981,6 +72974,13 @@ F.Silk_g836
 0
 0
 0
+snowman_pcb
+Keystone_3003_CR2032_THT
+
+
+0
+3
+2
 snowman_pcb
 LED_1206_3216Metric_ReverseMount_NoHole1.8x2.4mm
 LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator

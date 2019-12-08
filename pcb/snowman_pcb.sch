@@ -22,7 +22,7 @@ U 1 1 5DAC6117
 P 1750 1850
 F 0 "BT1" H 1868 1946 50  0000 L CNN
 F 1 "Battery_Cell" H 1868 1855 50  0000 L CNN
-F 2 "snowman_pcb:BatteryHolder_THT_CR2032" V 1750 1910 50  0001 C CNN
+F 2 "Battery:BatteryHolder_Keystone_3009_1x2450" V 1750 1910 50  0001 C CNN
 F 3 "~" V 1750 1910 50  0001 C CNN
 	1    1750 1850
 	1    0    0    -1  
